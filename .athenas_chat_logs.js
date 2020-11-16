@@ -1,4 +1,4 @@
-//improved script by athena#0162
+//improved script by Vendetta#9676
 //onetap.com/members/cardboardpizzza.5658/
 
 UI.AddLabel("<---------------------------------------->"); //just for menu sorting
